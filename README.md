@@ -19,7 +19,7 @@ In "Shares and Securities" you can enter your various stock holdings using a sea
 
 ### Mutual funds
 
-You can enter your various Mutual funds holdings using the " Mutual Fund '' section from Home Page , also built-in with a search bar function. It also asks you the time of start of your particular Mutual fund and whether the amount is invested in a monthly manner or a one time lump sum.
+You can enter your various Mutual funds holdings using the " Mutual Fund '' section from Home Page , also built-in with a search bar function. It also asks you the time of start of your particular Mutual fund 
 
 ### Loans & Borrowing
 
