@@ -1,0 +1,416 @@
+#navigation-bs{
+    background-color: rgba(0,183,139,1);
+   
+    
+}
+.navbar{
+    position: relative;
+    width: 100%;
+}
+  #navbar{
+    position: relative;
+    margin-left: 1.6em;
+    margin-top: 0.7em;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Microsoft YaHei;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    text-decoration: none;
+}
+
+#icons8-menu-24 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0));
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    right: 3%;
+    top: 24px;
+    overflow: visible;
+}
+.rect2{
+        background-color: rgba(39,72,75,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+        text-align: center;
+        align-items: center;
+        width: 100%;
+        height: 15em;
+        margin-top: 0em;
+        position: relative;
+       
+}
+.rect3{
+        background-color: rgba(225,255,246,0.988);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+		overflow: visible;
+		width: 96%;
+		position:relative;
+        left: 0;right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: center;
+		margin-top: -2em;   
+        border-radius: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-style: none;
+overflow-x: hidden;
+}
+
+#Title {
+    text-align: center;
+    margin-top: 2em;
+    overflow: visible;
+    position: absolute;
+    width: 100%;
+    white-space: nowrap;
+    font-family: Microsoft YaHei;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    
+}
+#net{
+    text-align: center;
+    margin-top: 8em;
+    overflow: visible;
+    position: absolute;
+    width: 100%;
+    white-space: nowrap;
+    font-family: Microsoft YaHei;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#total{
+    color: rgba(80,232,116,1);
+    text-align: center;
+    margin-top: 4em;
+    overflow: visible;
+    position: absolute;
+    width: 100%;
+    white-space: nowrap;
+    font-family: Microsoft YaHei;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    
+}
+
+
+#Shares__Securities {
+    
+    position: relative;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: Lato;
+    
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+   
+}
+#Mutual__Funds {
+    
+    position: relative;
+    overflow: visible;
+   
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    
+}
+#Loans___Borrowing {
+    position: relative;
+    overflow: visible;
+   white-space: nowrap;
+   
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#Property {
+    
+    position: relative;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+  
+}
+#CashInHand{
+    position: relative;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+
+}
+#FixedDeposit{
+    position: relative;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+
+}
+#Loans_Advances{
+    position: relative;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#jewel{
+    position: relative;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#r1{
+    margin-top: 3em;
+    text-align: center;
+}
+#r2{
+    margin-top: 3em;
+    text-align: center;
+}
+.rect3 a{
+    color: black;
+    font-family: lato,sans-serif;
+    text-decoration: none;
+}
+#Calc{
+		overflow: visible;
+		font-family: Lato,sans-serif;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	
+}
+.rect4{
+    position: relative;
+    text-align: center;
+}
+.rect5{
+    background-color: rgba(225,255,246,0.988);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+    overflow: visible;
+    width: 96%;
+    position:relative;
+    left: 0;right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    margin-top: -2em;   
+    border-radius: 10px;
+}
+#FD{
+    
+    position: relative;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#EMI{
+   
+    position: relative;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#gold{
+   
+    position: relative;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+.rect5 a{
+    color: black;
+    font-family: lato,sans-serif;
+    text-decoration: none;
+    
+  
+}
+#r3{
+    margin-top: 1em;
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+#fixedDtext{
+    text-align: center;
+}
+
+
+.subbtn{
+    margin-top: 1em;
+  background-color: rgba(39,72,75,1) !important; 
+}
+#resFD{
+    text-align: center;
+   
+   
+}
+.Form{
+  align-self: center;
+  display: inline-block;
+}
+#txt{
+    text-align: center;
+    margin-top: 9em;
+    overflow: visible;
+    position: absolute;
+    width: 100%;
+    white-space: nowrap;
+    font-family: Microsoft YaHei;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);  
+}
+#addbtn{
+    bottom: 3em;
+ float: right;
+ right: 2em;
+ position: fixed;
+ z-index: 9999;
+}
+#edit{
+    float: right;
+    margin-right: 2em;
+}
+.bal{
+    color: rgba(80,232,116,1);
+    text-align: center;
+    margin-top: 3em;
+    overflow: visible;
+    position: absolute;
+    width: 100%;
+    white-space: nowrap;
+    font-family: Microsoft YaHei;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;   
+}
+.listEleLB{
+    padding-left: 1.2em;
+}
+.listEleLA{
+    padding-left: 1.2em;
+}
+.listEleProp{
+    padding-left: 1.2em;
+}
+.listStocks{
+    padding-left: 1.2em;
+    
+}
+
+.loader {
+    position: fixed;
+    z-index: 999999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(225,255,246,0.988);;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader > img {
+    width: 100px;
+}
+
+.loader.hidden {
+    animation: fadeOut 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeOut {
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+.thumb {
+    height: 100px;
+    border: 1px solid black;
+    margin: 10px;
+}
+.Net{
+    color:rgba(80,232,116,1);
+    margin-top: 4em;
+}
+.ContTitleFD span{
+    font-weight: 600;
+    padding-left: 1em;
+    margin-bottom: 2em !important;
+    color: rgba(39,72,75,1);
+}
+.ContTitleFD {
+    padding-left: 1.5em;
+}
