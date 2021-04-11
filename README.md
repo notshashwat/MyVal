@@ -1,16 +1,16 @@
-MyVal
+#MyVal
 
-Description:
+##Description:
 MyVal is a website which allows you to keep a record of all your financial assets and liabilities. It helps you keep track of your investments and helps you to make a healthy portfolio. As the saying goes- "Never put all your eggs in one basket" , a diverse portfolio and risk management is key to a good investment strategy and MyVal helps you to keep that in check.To top it off, MyVal also comes with calculators for Fixed Deposits, EMIs and gold. 
 
-Site Layout :
+##Site Layout :
 To get started with MyVal , sign up using an email address and a password. Use this email address and password to Login to your MyVal account. 
 
 The home page comes with two primary sections - The top eight features are to be used to enter and save your personal finances and the bottom three features , labelled as "Calculators" , which store no data.
 
 To sign out or go to the home page from anywhere in the site , click on the three lines button in the top right and click on the desired option from the drop-down.
 
-Feature descriptions:
+##Feature descriptions:
 
 
 Shares and Securities
